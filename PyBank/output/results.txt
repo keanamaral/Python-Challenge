@@ -1,0 +1,6 @@
+----------Main Stats------------
+Total Months: 86
+Total Profits: $38382578
+Average change in Profits: $-2315
+Greatest increase in Profits: $1926159 in the month of Feb-2012
+Greatest decrease in Profits: $-2196167 in the month of Sep-2013
