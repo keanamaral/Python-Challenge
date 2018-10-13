@@ -46,3 +46,9 @@ The `PyPoll` challenge has a raw data file called `election_data.csv`.  The CSV 
 
 ### Text File Output for PyPoll Analysis
 ![PyPollResultText-IMG06](image/06-PyPollTxtFile.png)
+
+- - -
+
+### Copyright
+
+Kean Amaral © 2018. All Rights Reserved.
